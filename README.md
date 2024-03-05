@@ -10,6 +10,7 @@ DB Legends Data
 | Mindset   | Main developer, created the scraper (coming soon)        |
 | Rez       | Lead developer under Mindset, recruited by him ([Rez](https://github.com/Rez-Yeat)) |
 | Feijoes!  | Created the DBLegendsAPI, check him out ([Feijoes](https://github.com/feijoes)) |
+| reflection5964 | Manager of the repo and releases|
 
 Welcome to the Dragon Ball Legends repository! This repository contains data and information related to the popular mobile game Dragon Ball Legends. Whether you're a player looking for data analysis, a developer seeking game information, or a fan interested in contributing, this is the place for you!
 
@@ -29,8 +30,8 @@ We provide various CSV tables containing data related to Dragon Ball Legends. Th
 
 ### files
 
-1. `DBL.cs`: this file scrapes the data from dblegends.net.
-2. `DBL.csproj`: Lists all the abilities available in the game, along with their descriptions and effects.
+1. `DBL.py`: this file scrapes the data from legends.dbz.space.
+
 
 ## How to Contribute
 
