@@ -5,8 +5,8 @@ DB Legends Data
 
 ### Helpers
 
-| Person | what they did |
---------------------------
-👨‍💻Mindset | Main Dev, made the scraper that is coming soon|
-👨‍💻Rez | Sorta dragged him into this but he is the Lead dev under Mindset [Rez](https://github.com/Rez-Yeat) |
-👨‍💻Feijoes! | He made the DBLegendsAPI! go check him out [Feijoes](https://github.com/feijoes) |
+| Person    | What they did                                             |
+| --------- | -------------------------------------------------------- |
+| Mindset   | Main developer, created the scraper (coming soon)        |
+| Rez       | Lead developer under Mindset, recruited by him ([Rez](https://github.com/Rez-Yeat)) |
+| Feijoes!  | Created the DBLegendsAPI, check him out ([Feijoes](https://github.com/feijoes)) |
