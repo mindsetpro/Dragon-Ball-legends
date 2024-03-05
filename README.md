@@ -4,6 +4,7 @@
 DB Legends Data
 
 ### Helpers
+
 | Person | what they did |
 --------------------------
 👨‍💻Mindset | Main Dev, made the scraper that is coming soon|
