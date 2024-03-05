@@ -28,10 +28,6 @@ Here's a checklist of things you can do with this repository:
 
 We provide various CSV tables containing data related to Dragon Ball Legends. These tables cover a wide range of topics, including characters, abilities, items, and more. Feel free to explore and utilize this data for your projects or analyses.
 
-### files
-
-1. `DBL.py`: this file scrapes the data from legends.dbz.space.
-
 
 ## How to Contribute
 
