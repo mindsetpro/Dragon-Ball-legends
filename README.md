@@ -68,6 +68,11 @@ We would like to extend our gratitude to all the contributors who have helped im
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code and data for both commercial and non-commercial purposes.
 
+## how to view raw assets
+----
+you need to use the pages link
+example:
+https://godkudbl.github.io/Dragon-Ball-legends/assets/Sprite/Onl_plt_LeagueRankIn.png
 
 ## extra info
 > there are 28181 assets total (40+ mbs)
