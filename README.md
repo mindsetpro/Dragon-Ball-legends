@@ -68,4 +68,10 @@ We would like to extend our gratitude to all the contributors who have helped im
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code and data for both commercial and non-commercial purposes.
 
+
+## extra info
+> there are 28181 assets total (40+ mbs)
+>
+> this was made by legends modders (mindset and rez)
+
 ---
