@@ -1,0 +1,77 @@
+
+          _____                    _____                    _____                    _____                _____                    _____                    _____                            _____                    _____                    _____                            _____                    _____                _____                    _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \              /\    \                  /\    \                  /\    \                          /\    \                  /\    \                  /\    \                          /\    \                  /\    \              /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
+        /::\____\                /::\    \                /::\    \                /::\    \            /::\    \                /::\    \                /::\    \                        /::\    \                /::\____\                /::\    \                        /::\    \                /::\    \            /::\    \                /::\    \                /::\____\                /::\    \                /::\    \        
+       /:::/    /               /::::\    \              /::::\    \              /::::\    \           \:::\    \              /::::\    \              /::::\    \                      /::::\    \              /::::|   |               /::::\    \                      /::::\    \              /::::\    \           \:::\    \              /::::\    \              /:::/    /               /::::\    \              /::::\    \       
+      /:::/    /               /::::::\    \            /::::::\    \            /::::::\    \           \:::\    \            /::::::\    \            /::::::\    \                    /::::::\    \            /:::::|   |              /::::::\    \                    /::::::\    \            /::::::\    \           \:::\    \            /::::::\    \            /:::/    /               /::::::\    \            /::::::\    \      
+     /:::/    /               /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \           \:::\    \          /:::/\:::\    \          /:::/\:::\    \                  /:::/\:::\    \          /::::::|   |             /:::/\:::\    \                  /:::/\:::\    \          /:::/\:::\    \           \:::\    \          /:::/\:::\    \          /:::/    /               /:::/\:::\    \          /:::/\:::\    \     
+    /:::/    /               /:::/__\:::\    \        /:::/  \:::\    \        /:::/__\:::\    \           \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \                /:::/__\:::\    \        /:::/|::|   |            /:::/  \:::\    \                /:::/__\:::\    \        /:::/__\:::\    \           \:::\    \        /:::/  \:::\    \        /:::/____/               /:::/__\:::\    \        /:::/__\:::\    \    
+   /:::/    /               /::::\   \:::\    \      /:::/    \:::\    \      /::::\   \:::\    \          /::::\    \      /::::\   \:::\    \       \:::\   \:::\    \              /::::\   \:::\    \      /:::/ |::|   |           /:::/    \:::\    \              /::::\   \:::\    \      /::::\   \:::\    \          /::::\    \      /:::/    \:::\    \      /::::\    \              /::::\   \:::\    \       \:::\   \:::\    \   
+  /:::/    /      _____    /::::::\   \:::\    \    /:::/    / \:::\    \    /::::::\   \:::\    \        /::::::\    \    /::::::\   \:::\    \    ___\:::\   \:::\    \            /::::::\   \:::\    \    /:::/  |::|   | _____    /:::/    / \:::\    \            /::::::\   \:::\    \    /::::::\   \:::\    \        /::::::\    \    /:::/    / \:::\    \    /::::::\    \   _____    /::::::\   \:::\    \    ___\:::\   \:::\    \  
+ /:::/____/      /\    \  /:::/\:::\   \:::\____\  /:::/    /   \:::\ ___\  /:::/\:::\   \:::\    \      /:::/\:::\    \  /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \          /:::/\:::\   \:::\    \  /:::/   |::|   |/\    \  /:::/    /   \:::\ ___\          /:::/\:::\   \:::\____\  /:::/\:::\   \:::\    \      /:::/\:::\    \  /:::/    /   \:::\    \  /:::/\:::\    \ /\    \  /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \ 
+|:::|    /      /::\____\/:::/  \:::\   \:::|    |/:::/____/     \:::|    |/:::/  \:::\   \:::\____\    /:::/  \:::\____\/:::/__\:::\   \:::\____\/::\   \:::\   \:::\____\        /:::/  \:::\   \:::\____\/:: /    |::|   /::\____\/:::/____/     \:::|    |        /:::/  \:::\   \:::|    |/:::/  \:::\   \:::\____\    /:::/  \:::\____\/:::/____/     \:::\____\/:::/  \:::\    /::\____\/:::/__\:::\   \:::\____\/::\   \:::\   \:::\____\
+|:::|____\     /:::/    /\::/    \:::\  /:::|____|\:::\    \     /:::|____|\::/    \:::\  /:::/    /   /:::/    \::/    /\:::\   \:::\   \::/    /\:::\   \:::\   \::/    /        \::/    \:::\  /:::/    /\::/    /|::|  /:::/    /\:::\    \     /:::|____|        \::/    \:::\  /:::|____|\::/    \:::\  /:::/    /   /:::/    \::/    /\:::\    \      \::/    /\::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\:::\   \:::\   \::/    /
+ \:::\    \   /:::/    /  \/_____/\:::\/:::/    /  \:::\    \   /:::/    /  \/____/ \:::\/:::/    /   /:::/    / \/____/  \:::\   \:::\   \/____/  \:::\   \:::\   \/____/          \/____/ \:::\/:::/    /  \/____/ |::| /:::/    /  \:::\    \   /:::/    /          \/_____/\:::\/:::/    /  \/____/ \:::\/:::/    /   /:::/    / \/____/  \:::\    \      \/____/  \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \:::\   \:::\   \/____/ 
+  \:::\    \ /:::/    /            \::::::/    /    \:::\    \ /:::/    /            \::::::/    /   /:::/    /            \:::\   \:::\    \       \:::\   \:::\    \                       \::::::/    /           |::|/:::/    /    \:::\    \ /:::/    /                    \::::::/    /            \::::::/    /   /:::/    /            \:::\    \                       \::::::/    /    \:::\   \:::\    \       \:::\   \:::\    \     
+   \:::\    /:::/    /              \::::/    /      \:::\    /:::/    /              \::::/    /   /:::/    /              \:::\   \:::\____\       \:::\   \:::\____\                       \::::/    /            |::::::/    /      \:::\    /:::/    /                      \::::/    /              \::::/    /   /:::/    /              \:::\    \                       \::::/    /      \:::\   \:::\____\       \:::\   \:::\____\    
+    \:::\__/:::/    /                \::/____/        \:::\  /:::/    /               /:::/    /    \::/    /                \:::\   \::/    /        \:::\  /:::/    /                       /:::/    /             |:::::/    /        \:::\  /:::/    /                        \::/____/               /:::/    /    \::/    /                \:::\    \                      /:::/    /        \:::\   \::/    /        \:::\  /:::/    /    
+     \::::::::/    /                  ~~               \:::\/:::/    /               /:::/    /      \/____/                  \:::\   \/____/          \:::\/:::/    /                       /:::/    /              |::::/    /          \:::\/:::/    /                          ~~                    /:::/    /      \/____/                  \:::\    \                    /:::/    /          \:::\   \/____/          \:::\/:::/    /     
+      \::::::/    /                                     \::::::/    /               /:::/    /                                 \:::\    \               \::::::/    /                       /:::/    /               /:::/    /            \::::::/    /                                                /:::/    /                                 \:::\    \                  /:::/    /            \:::\    \               \::::::/    /      
+       \::::/    /                                       \::::/    /               /:::/    /                                   \:::\____\               \::::/    /                       /:::/    /               /:::/    /              \::::/    /                                                /:::/    /                                   \:::\____\                /:::/    /              \:::\____\               \::::/    /       
+        \::/____/                                         \::/____/                \::/    /                                     \::/    /                \::/    /                        \::/    /                \::/    /                \::/____/                                                 \::/    /                                     \::/    /                \::/    /                \::/    /                \::/    /        
+         ~~                                                ~~                       \/____/                                       \/____/                  \/____/                          \/____/                  \/____/                  ~~                                                        \/____/                                       \/____/                  \/____/                  \/____/                  \/____/         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+  Start Time: 2024-03-06 14:30:00 (JST) ～ End Time: 2024-03-13 15:00:00 (JST)
+Thank you for your continued support of Dragon Ball Legends.
+
+Due to legal revisions in certain regions, we plan to implement the following in future updates.
+
+( Addendum)
+Adjustments to some Exchange Shop lineups
+As of , the following items will no longer be exchangeable for Slot Removers.
+Legends Tickets
+Z2 Medals
+Skip Tickets
+As of , Z2 Medals will no longer be exchangeable for Z Medals.
+As of , Z Medals will no longer be exchangeable for Equipment.
+*Equipment in the Z Medal Exchange lineup will be added to the Equipment Medal Exchange.
+
+Sale of some items ending
+Sale of "HAPPY WEEKEND SALE! 100 Slot Removers" will end on 2024/03/12 15:00.
+Sale of the "Character Upgrade Pack" will end on 2024/03/13 15:00.
+
+Adjustments to some pack contents
+The contents of the "Legendary Start Dash Pack" will be changed during maintenance on .
+*There will be no change to the purchase period after this update.
+*Check the notice below for more details regarding the changes.
+
+
+If the following characters' Special Arts are used when there are no standby battle members, their animations do not play.
+Bulma (Youth) (DBL09-05S)
+Launch (DBL31-05S)
+*This is an issue with the animations only. The effects are still activating properly.
+In Hyperdimensional Co-Op and Raid battles, when Super Saiyan 2 Gohan (Youth) (DBL68-03U) hits an enemy with the "Rage-Filled Super Kamehameha" Special Move Arts, Buddy characters may disappear briefly.
+*This is a display issue only and has no effect on battles.
+When attempting to register a Party Preset in Hyperdimensional Co-Op or Raid, a soft lock may occur.
+*If this happens, please try restarting the app.
+When the "WEEKEND SPECIAL CHOICE!" battle has concluded, players may receive a "This Story is not yet unlocked." error message and be returned to the title screen.
+*After this error occurs, please try playing the same WEEKEND SPECIAL CHOICE again.
+*If this does not resolve the issue or you encounter this problem with a different Story, please try clearing the cache from the Support menu on the title screen.
+After the version update, certain elements such as the Rising Rush gauge may not be displayed correctly in some content.
+*If this happens, please try restarting the app.
+Error code: 18099 may occur when summoning characters.
+*Chrono Crystals and Summon Tickets will not be consumed when this error occurs.
+In the Full Power Battle party formation screen, the number of Arts Cards displayed does not reflect the number your Buddies have.
+*The Arts Cards the player uses in Full Power Battle include those held by Buddies.
+*This is a formation screen display issue only. It does not affect the actual battle.
+Items received from Tournament of Power Ranking Rewards may not display correctly.
+This issue may occur when there is a communication error.
+Please note that Titles and rewards are still received correctly, even when they are not displayed or are shown with incorrect amounts.
+*If this issue occurs, please try to Resync Game Data from the Support menu on the title screen.
+A restore cannot be completed if it is attempted after the title screen has been displayed two or more times, or if you attempt to restore two or more times while the application is running.
+*To complete the process successfully, please restore only once at the title screen the first time after launching the app.
