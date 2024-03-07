@@ -1,20 +1,30 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF> <!-- Ensure this is set to true for Windows Forms projects -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Ensure this is set to true for Windows Forms projects -->
+    <EnableWindowsTargeting>true</EnableWindowsTargeting> <!-- Set this to true for building Windows applications -->
   </PropertyGroup>
+
 
   <ItemGroup>
     <!-- Include AssetStudio.dll -->
     <Reference Include="AssetStudio">
       <HintPath>libs\AssetStudio.dll</HintPath>
     </Reference>
+    <!-- Include AssetStudioGUI.exe -->
+    <Reference Include="AssetStudioGUI">
+      <HintPath>libs\AssetStudioGUI.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Include LS.cs -->
-    <Compile Include="LS.cs" />
+    <!-- Include other libraries needed -->
+    <!-- Adjust paths and references according to your project's dependencies -->
+    <PackageReference Include="System.Windows.Forms" Version="4.0.0" />
+    <!-- Include other references as needed -->
   </ItemGroup>
 
   <ItemGroup>
