@@ -1,84 +1,80 @@
 using System;
-using System.Drawing;
+using System.Collections.Generic;
 using System.IO;
-using System.Windows.Forms;
+using System.Net;
 using AssetStudio;
 
 namespace DragonBallAssetViewer
 {
     static class Program
     {
-        [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
-        }
-    }
+            Console.WriteLine("DragonBall Asset Viewer");
 
-    public partial class MainForm : Form
-    {
-        public MainForm()
-        {
-            InitializeComponent();
-            ApplyDarkTheme();
-        }
+            // Prompt user to select the APK file
+            Console.WriteLine("Please provide the path to the APK file:");
+            string filePath = Console.ReadLine();
 
-        private void ApplyDarkTheme()
-        {
-            // Modify the theme colors of the form
-            this.BackColor = System.Drawing.Color.FromArgb(30, 30, 30);
-            this.ForeColor = System.Drawing.Color.White;
-            foreach (Control control in this.Controls)
-            {
-                if (control is DataGridView)
-                {
-                    ((DataGridView)control).BackgroundColor = System.Drawing.Color.FromArgb(50, 50, 50);
-                    ((DataGridView)control).ForeColor = System.Drawing.Color.White;
-                }
-                else
-                {
-                    control.BackColor = System.Drawing.Color.FromArgb(50, 50, 50);
-                    control.ForeColor = System.Drawing.Color.White;
-                }
-            }
-        }
-
-        private void LoadApk(string filePath)
-        {
             if (File.Exists(filePath))
             {
                 try
                 {
                     // Load the APK file using AssetStudio
-                    // Adjust this part to load the APK file with the correct method from AssetStudio
-                    // For example:
-                    // AssetStudio.AssetBundle.LoadFromFile(filePath);
+                    AssetBundle ab = AssetBundle.LoadFromFile(filePath);
+
+                    // Get all assets from the AssetBundle
+                    var assets = ab.LoadAllAssets();
+
+                    // Create a directory for storing assets
+                    string assetDirectory = "assets";
+                    Directory.CreateDirectory(assetDirectory);
+
+                    // Dictionary to hold asset types and their corresponding directories
+                    Dictionary<string, string> assetTypeDirectories = new Dictionary<string, string>();
+
+                    // Loop through each asset and process them
+                    foreach (var asset in assets)
+                    {
+                        // Create a directory for the asset type if it doesn't exist
+                        if (!assetTypeDirectories.ContainsKey(asset.Type))
+                        {
+                            assetTypeDirectories[asset.Type] = Path.Combine(assetDirectory, asset.Type);
+                            Directory.CreateDirectory(assetTypeDirectories[asset.Type]);
+                        }
+
+                        // Download and save the asset
+                        string assetFileName = $"{asset.Name}.{asset.Type}";
+                        string assetFilePath = Path.Combine(assetTypeDirectories[asset.Type], assetFileName);
+
+                        DownloadAsset(asset, assetFilePath);
+
+                        // Print progress
+                        Console.WriteLine($"Downloaded asset: {assetFileName}");
+                    }
+
+                    Console.WriteLine("Download completed.");
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error loading APK file: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    Console.WriteLine("Error loading APK file: " + ex.Message);
                 }
             }
             else
             {
-                MessageBox.Show("APK file not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Console.WriteLine("APK file not found.");
             }
+
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
 
-private void InitializeComponent()
-{
-    // Auto-generated code from the form designer
-    this.SuspendLayout();
-    // Add controls, set properties, etc.
-    this.ResumeLayout(false);
-}
-
-        private void MainForm_Load(object sender, EventArgs e)
+        static void DownloadAsset(AssetPreloadData asset, string filePath)
         {
-            // Load the specified APK file
-            LoadApk("DRAGON BALL LEGENDS_5.0.1_Apkpure.apk");
+            using (WebClient webClient = new WebClient())
+            {
+                webClient.DownloadFile(asset.SourceFile.originalPath, filePath);
+            }
         }
     }
 }
